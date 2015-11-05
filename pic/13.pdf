@@ -1,0 +1,55 @@
+
+<html>
+    <head>
+
+ <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title></title>
+    
+
+     
+
+  
+
+
+</head>
+<body>
+<form>
+     
+    <div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  filesize(): stat failed for /ims/pic/I-94 Admission Number Retrieval.pdf</p>
+<p>Filename: views/certificate.php</p>
+<p>Line Number: 31</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: file</p>
+<p>Filename: views/certificate.php</p>
+<p>Line Number: 33</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  readfile(/ims/pic/I-94 Admission Number Retrieval.pdf): failed to open stream: No such file or directory</p>
+<p>Filename: views/certificate.php</p>
+<p>Line Number: 34</p>
+
+</div>   
+
+<img src="/ims/pic/I-94 Admission Number Retrieval.pdf" alt="iso" border=0 />
+       
+</form>
+
+
+</body>
+
+    
